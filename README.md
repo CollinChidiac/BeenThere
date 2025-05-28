@@ -10,3 +10,5 @@ How to install:
 5. Run ''' docker compose up -d '''
 6. Navigate to localhost:8094
 7. Done!
+
+![Screenshot 2025-05-27 180924](https://github.com/user-attachments/assets/980c6a15-614f-4772-aa18-97e3534f8b12)
