@@ -7,7 +7,7 @@ How to install:
 2. Download the zip
 3. Extract the zip
 4. Open a terminal in the extracted file's directory
-5. Run ''' docker compose up -d '''
+5. Run ``` docker compose up -d ```
 6. Navigate to localhost:8094
 7. Done!
 
